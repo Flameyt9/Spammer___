@@ -1,6 +1,6 @@
 {
     "Logging": {
-        "LogWebhook": ""
+        "LogWebhook": "https://discord.com/api/webhooks/1379668051942703165/5DHYVoVzdEfhWY-n5DIA6-cgntfXyrHdlLe2LHA7vqrshmzvJvZLn6KTbFdr8luEKEOR"
     },
     "Spamming": {
         "SpamSpeed": 1500
