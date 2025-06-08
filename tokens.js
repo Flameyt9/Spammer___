@@ -11,5 +11,5 @@ const tokens = [
 
 // token.js
 module.exports = {
-  TOKEN: process.env.TOKEN,
+  TOKEN: process.env.TOKENS,
 };
