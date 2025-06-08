@@ -9,4 +9,7 @@ const tokens = [
   },
 ];
 
-module.exports = { tokens };
+// token.js
+module.exports = {
+  TOKEN: process.env.TOKEN,
+};
